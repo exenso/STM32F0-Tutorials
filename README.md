@@ -9,7 +9,7 @@
       STM32 Cube IDE Installation for Windows
 
 ## Tutorial 2
-      STM32CubeIDE Installation
+      Features of STM32F030F4P6
       Hardware connection with ST-link and TTL 
       Create STM32 new project 
       Code Optimization 
