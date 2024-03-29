@@ -6,7 +6,7 @@
 
 
 ## Tutorial 1
-  STM32 Cube IDE Installation for Windows
+      STM32 Cube IDE Installation for Windows
 
 ## Tutorial 2
       STM32CubeIDE Installation
