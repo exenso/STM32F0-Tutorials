@@ -6,4 +6,19 @@
 
 
 ## Tutorial 1
-STM32 Cube IDE Installation for Windows
+  STM32 Cube IDE Installation for Windows
+
+## Tutorial 2
+      STM32CubeIDE Installation
+      Hardware connection with ST-link and TTL 
+      Create STM32 new project 
+      Code Optimization 
+
+## Tutorial 3
+      LED Blink
+      
+## Tutorial 4
+      4 Bit Binary counter
+
+## Tutorial 5
+    7 Segment Display
