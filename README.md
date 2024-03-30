@@ -17,9 +17,23 @@
 ## Tutorial 3
       LED Blink
       Digital Output
+      Circuit diagram
+      Programming
       
 ## Tutorial 4
       4 Bit Binary counter
+      Circuit diagram
+      Programming
 
 ## Tutorial 5
     7 Segment Display
+    Circuit diagram
+    Programming
+
+## Tutorial 5
+    Push button with STM32F0
+    Pull-up resistors 
+    Pull-down resistors
+    Circuit diagram
+    Programming
+
