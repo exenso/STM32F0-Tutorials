@@ -16,6 +16,7 @@
 
 ## Tutorial 3
       LED Blink
+      Digital Output
       
 ## Tutorial 4
       4 Bit Binary counter
