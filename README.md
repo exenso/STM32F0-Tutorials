@@ -30,7 +30,7 @@
     Circuit diagram
     Programming
 
-## Tutorial 5
+## Tutorial 6
     Push button with STM32F0
     Pull-up resistors 
     Pull-down resistors
