@@ -36,4 +36,8 @@
     Pull-down resistors
     Circuit diagram
     Programming
-
+    
+## Tutorial 7
+    7-segment Counter with STM32F0
+    Circuit diagram
+    Programming
