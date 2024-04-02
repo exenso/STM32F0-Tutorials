@@ -45,7 +45,8 @@
 ## Tutorial 8
     Uart Data Transmit
     Circuit diagram
-    Code-  Uart string data Transmit
-	   Uart Int data Transmit
-	   Uart Float  data Transmit
+    Code-  
+        1.Uart string data Transmit
+        2.Uart Int data Transmit
+        3.Uart Float  data Transmit
     
