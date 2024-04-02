@@ -41,3 +41,11 @@
     7-segment Counter with STM32F0
     Circuit diagram
     Programming
+
+## Tutorial 8
+    Uart Data Transmit
+    Circuit diagram
+    Code-  Uart string data Transmit
+	   Uart Int data Transmit
+	   Uart Float  data Transmit
+    
