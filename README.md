@@ -76,4 +76,6 @@
             1. HAL_UART_Receive();
             2.HAL_GPIO_WritePin();
             3.7segment digit update from user
+            4.GPIO PORT Remapping Lib Use
+            
 
