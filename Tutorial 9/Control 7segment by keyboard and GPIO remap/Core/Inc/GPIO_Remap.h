@@ -25,50 +25,6 @@ void Write_PORT_Remap(PORT_Remap_TypeDef* Prm, uint16_t data){
 }
 /////////////////////////////////////////////////////////////////////////////
 
-/*
 
-/// This is below code is example code of above lib
-
-uint8_t seg_table[] = {
-    //pgfedcba
-    0b11000000,  // 0
-    0b11111001,  // 1
-    0b10100100,  // 2
-    0b10110000,  // 3
-    0b10011001,  // 4
-    0b10010010,  // 5
-    0b10000010,  // 6
-    0b11111000,  // 7
-    0b10000000,  // 8
-    0b10010000   // 9
-};
-
-PORT_Remap_TypeDef PORTrm;
-uint8_t UART1_rxBuffer[2] = {0};
-uint8_t ch0;
-
-void main(){
-
-    PORTrm.PORT[0] = GPIOA; PORTrm.PIN[0] = a_Pin;
-    PORTrm.PORT[1] = GPIOA; PORTrm.PIN[1] = b_Pin;
-    PORTrm.PORT[2] = GPIOA; PORTrm.PIN[2] = c_Pin;
-    PORTrm.PORT[3] = GPIOA; PORTrm.PIN[3] = d_Pin;
-    PORTrm.PORT[4] = GPIOA; PORTrm.PIN[4] = e_Pin;
-    PORTrm.PORT[5] = GPIOA; PORTrm.PIN[5] = f_Pin;
-    PORTrm.PORT[6] = GPIOA; PORTrm.PIN[6] = g_Pin;
-    PORTrm.PORT[7] = GPIOA; PORTrm.PIN[7] = h_Pin;
-
-    while(1){
-        HAL_UART_Receive (&huart1, UART1_rxBuffer, 2, 100);
-
-        ch0 = UART1_rxBuffer[0];
-        ch0 = ch0-48; // convert character to number
-        ch0 = (ch0 > 9)? 9:ch0;
-        Write_PORT_Remap(&PORTrm, seg_table[ch0]);
-    }
-
-}
-
-*/
 
 #endif /* INC_GPIO_REMAP_H_ */
