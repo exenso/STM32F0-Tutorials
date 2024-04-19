@@ -131,17 +131,16 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 
-
-	HAL_ADC_Start(&hadc);
+	  HAL_ADC_Start(&hadc);
     HAL_ADC_PollForConversion(&hadc,200);
     adcvalue = HAL_ADC_GetValue(&hadc);
 
     temp = LM35_Read(adcvalue, 3.3, 1023);
 
-	lcd_xy(1, 5);
-	LCD_floatValue(temp,2);
-	LCD_String("\337C");  // for degree celcus
-	HAL_Delay(500);
+	  lcd_xy(1, 5);
+	  LCD_floatValue(temp,2);
+	  LCD_String("\337C");  // for degree celcus
+	  HAL_Delay(500);
 
   }
   /* USER CODE END 3 */
