@@ -92,3 +92,16 @@
             1.ADC Polling Method
             2.Uart Transmit to show adc value
             
+
+
+## Tutorial 11
+
+        LCD16x02 and LM35 Sensor Interface with STM32
+        Circuit diagram
+        
+        Code- 
+            1. LCD1602 and LM35 
+               - LCD16x2 Driver Lib
+               - LM35 Sensor Function created to get temperature Data
+         
+            
