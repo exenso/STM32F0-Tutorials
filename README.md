@@ -105,3 +105,15 @@
                - LM35 Sensor Function created to get temperature Data
          
             
+
+
+## Tutorial 12
+
+        LM35 Sensor with STM32F0
+        Circuit diagram
+        
+        Code- 
+             1.Build LM35 algorithm 
+             2.Print Float value without using Floating varibale
+         
+            
