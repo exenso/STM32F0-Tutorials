@@ -117,3 +117,14 @@
              2.Print Float value without using Floating varibale
          
             
+
+
+## Tutorial 13
+
+        Microsecond delay in STM32
+        Circuit diagram
+        
+        Code- 
+             1.Timer Configuration For 1uS delay
+         
+            
