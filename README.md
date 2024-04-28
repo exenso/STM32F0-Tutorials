@@ -128,3 +128,18 @@
              1.Timer Configuration For 1uS delay
          
             
+
+## Tutorial 14
+
+     STM32 PWM LED Dimmer
+     Circuit diagram
+        
+        theory:
+                1. PWM Frequency 
+                2. PWM Duty Cycle 
+                3. PWM Resolution 
+                4. STM32 PWM Frequency with Equation
+                5. STM32 PWM Duty Cycle with Equation
+                6. STM32 PWM Resolution with Equation
+        Code: 
+              Timer Module In PWM Mode
