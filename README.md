@@ -143,3 +143,13 @@
                 6. STM32 PWM Resolution with Equation
         Code: 
               Timer Module In PWM Mode
+
+
+## Tutorial 15
+
+     STM32 PWM LED Dimmer
+     Circuit diagram
+        
+       
+        Code: 
+              Timer Module In PWM Mode application
