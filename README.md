@@ -153,3 +153,13 @@
        
         Code: 
               Timer Module In PWM Mode application
+
+
+## Tutorial 16
+
+     Interface DS3231 RTC module with STM32
+     Circuit diagram
+        
+       
+        Code: 1. I2C use RTC module read and write
+              2. Create DS3231 RTC module Lib
