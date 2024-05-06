@@ -1,0 +1,8 @@
+../Core/Inc/DS321RTC.h:35:9:decToBcd	16	static
+../Core/Inc/DS321RTC.h:40:5:bcdToDec	0	static
+../Core/Inc/DS321RTC.h:47:6:Set_Time	64	static
+../Core/Inc/DS321RTC.h:82:6:Get_Time	40	static
+../Core/Src/main.c:119:6:Print	24	static
+../Core/Src/main.c:205:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:134:5:main	104	static,ignoring_inline_asm
+../Core/Src/main.c:381:6:Error_Handler	0	static,ignoring_inline_asm
