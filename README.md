@@ -170,4 +170,14 @@
      Circuit diagram
         
        
-        Code: 1. Timer Input Capture Direct Mode
+        Code: 
+             1. Timer Input Capture Direct Mode
+
+## Tutorial 18
+
+     WS2812 LEDs using SPI with STM32
+     Circuit diagram
+               
+        Code: 
+            1.SPI Transmit 24bit data
+            2.Create WS2812 Lib
