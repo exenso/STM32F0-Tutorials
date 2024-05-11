@@ -1,8 +1,8 @@
 /*
  * WS2812_SPI.c
  *
- *  Created on: Sep 4, 2023
- *      Author: controllerstech
+ *  Created on: May 10, 2024
+ *      Author: Anwar
  */
 
 
